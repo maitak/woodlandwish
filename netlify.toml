@@ -1,9 +1,5 @@
-[
-build
-]
+[build]
   command = "gatsby build"
   publish = "public"
-[
-dev
-]
+[dev]
   command = "gatsby develop"
